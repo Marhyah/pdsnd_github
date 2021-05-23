@@ -11,12 +11,12 @@ This project is an exploration of data related to bike share systems for three m
 This project attempts to answer some interesting questions about the data by computing descriptive statistics and making visualisations.
 
 ### Files used
-*bikeshare
-*chicago
-*new york city
-*washington
+* bikeshare.py
+* chicago.csv
+* new york city.csv
+* washington.csv
 
 ### Credits
-*Udacity
-*[About READMEs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes)
+* Udacity
+* [About READMEs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes)
 
